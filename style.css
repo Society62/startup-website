@@ -1,0 +1,63 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+    font-family: 'Itim', cursive;
+    background: url(hacker.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+	
+
+.author2{
+	color: red;
+	font-size: 5rem;
+    font-weight: bold;
+    border bottom: 5px solid
+    text-align: center;
+
+ }
+
+.buffer {
+	height: 10px;
+}
+/*bootstrap*/
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+	text-align: center;
+	border-top: 
+
+}
+
+p{
+	font-size: 3rem;
+	color: red;
+	border-color: red;
+}
+
+.bufferr{
+	height: 250px;
+}
+
+.btn-primary{
+	background-color: #005353;
+	border-color: #005353;
+}
+
+.btn-primary:hover {
+	background-color: #00A2A2;
+	border-color: #00A2A2;
+	border-width: 3px;
+}
+
+
+.btn-xl{
+	padding: 10px 1rem;
+	width: 150px;
+}
